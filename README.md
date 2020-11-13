@@ -1,6 +1,7 @@
 # Vue Pdf Viewer
 
-![alt text](https://www.mustafacagri.com/wp-content/uploads/2020/11/vue-pdf-viewer.gif "Vue Pdf Viewer")
+![altcenter](https://www.mustafacagri.com/wp-content/uploads/2020/11/vue-pdf-viewer.gif "Vue Pdf Viewer")
+
 
 ## Demo
 
